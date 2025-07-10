@@ -21,7 +21,7 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-            Save and see your changes instantlygit!!!
+            Will this be the best player ever?
           </li>
         </ol>
 
